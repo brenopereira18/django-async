@@ -1,6 +1,6 @@
 import asyncio
 from django.http import HttpResponse
-import httpx
+import httpx 
 
 
 async def http_call_async():
